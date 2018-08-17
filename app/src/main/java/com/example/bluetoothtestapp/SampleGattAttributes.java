@@ -1,19 +1,16 @@
-package com.example.bluetoothtestapp.Bluetooth;
+package com.example.bluetoothtestapp;
 
 import android.os.Bundle;
 
-import com.example.bluetoothtestapp.R;
-
 import androidx.appcompat.app.AppCompatActivity;
 
-public class BluetoothActivity extends AppCompatActivity {
+public class SampleGattAttributes extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle saveInstanceState) {
         super.onCreate(saveInstanceState);
-        setContentView(R.layout.activity_bluetooth);
+        setContentView(R.layout.);
 
 
     }
-
 }
